@@ -1,0 +1,1 @@
+[19-Mar-2024 00:06:15 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\DB as DB because the name is already in use in /home/gameemif/socialhub.lol/app/Http/Controllers/Admin/TicketsControllerAdmin.php on line 11

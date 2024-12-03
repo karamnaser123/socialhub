@@ -1,0 +1,195 @@
+<?php
+return [
+    //Page Orders
+    'Search' => 'Search',
+    'All' => 'All',
+    'Pending' => 'Pending',
+    'In Progress' => 'In Progress',
+    'Completed' => 'Completed',
+    'Partial' => 'Partial',
+    'Processing' => 'Processing',
+    'Canceled' => 'Canceled',
+    'Dont Have Any Orders' => 'Dont Have Any Orders',
+    'ID' => 'ID',
+    'Date' => 'Date',
+    'Link' => 'Link',
+    'Charge' => 'Charge',
+    'Start count' => 'Start count',
+    'Quantity' => 'Quantity',
+    'Service' => 'Service',
+    'Remains' => 'Remains',
+    'Status' => 'Status',
+    //Page Orders
+
+    //Page header
+    'Total Customer Balance' => 'Total Customers Balance',
+    'Cost Orders' => 'Cost Orders',
+    'Total Orders' => 'Total Orders',
+    //Page header
+
+    //Page navigation
+    'New Order' => 'New Order',
+    'Orders' => 'Orders',
+    'Tickets' => 'Tickets',
+    'Payment' => 'Payment',
+    //Page navigation
+
+    //Page Payment
+    'Add Fund' => 'Add Fund',
+    'Method' => 'Method',
+    'ZainCash' => '✚ 𝗭𝗮𝗶𝗻 𝗖𝗮𝘀𝗵: Contact us | Min $5',
+    'OrangeMoney' => '✚ Orange Money : Contact us | Min $5',
+    'Click' => '✚ Click : Contact us | Min $5',
+    'Open Ticket' => 'Open Ticket',
+    'to get our Zain Cash number' => 'to get our Zain Cash number.',
+    'The Minimum payment is $5 USD' => 'The Minimum payment is $5 USD',
+    'And then provide us with your phone number and the amount sent' => 'And then provide us with your phone number and the amount sent.',
+    'Fund History' => 'Fund History',
+    'History' => 'History',
+    'Payment Methods' => 'Payment Methods',
+    'Amount' => 'Amount',
+    'Fee' => 'Fee',
+    'Payment Methods FAQs' => 'Payment Methods FAQs',
+    'PayPal' => " We don't accept payments from this payment method directly. Try one of the
+    methods available on our add-funds page",
+    'Other' => 'Other',
+    'namePayPal' => 'Paypal',
+    'Points' => 'Points',
+    //Page Payment
+
+
+    //Page Tickets
+    'Support Tickets' => 'Support Tickets',
+    'someqution' => 'We have listed Some Common Questions at Frequently Asked Questions. Check it first and then create tickets.',
+    'Create Tickets' => 'Create Tickets',
+    'Tickets History' => 'Tickets History',
+    'Subjects' => 'Subjects',
+    'Orders' => 'Orders',
+    'Others' => 'Others',
+    'Order Id' => 'Order Id',
+    'Request' => 'Request',
+    'Refill' => 'Refill',
+    'Cancel' => 'Cancel',
+    'Other' => 'Other',
+    'Payment Method' => 'Payment Method',
+    'Messages' => 'Messages',
+    'Last Updates' => 'Last Updates',
+    'Frequently FAQs' => 'Frequently FAQs',
+    'Why was my refill request rejected' => 'Why was my refill request rejected?',
+    'Why was my order canceled' => 'Why was my order canceled?',
+    'Is it possible for the quantity ordered to decrease' => 'Is it possible for the quantity ordered to decrease?',
+    'Can I get a refund to my original method of payment' => 'Can I get a refund to my original method of payment?',
+    'How many tickets can I open' => 'How many tickets can I open?',
+    'Why is my order not completed yet' => 'Why is my order not completed yet?',
+    'How often can I refill my order' => 'How often can I refill my order?',
+    'How can I send a screenshot to you' => 'How can I send a screenshot to you?',
+    'Do you have any other questions' => 'Do you have any other questions?',
+    'Submit Tickets' => 'Submit Tickets',
+    'Answered' => 'Answered',
+    'Closed' => 'Closed',
+    'Pending' => 'Pending',
+    //Page Tickets
+
+    //Page Main
+    'sorry we dont have product' => 'sorry we dont have product',
+    'Min' => 'Min',
+    'Max' => 'Max',
+    'Recent Update' => 'Recent Update',
+    'Submit Order' => 'Submit Order',
+    '' => '',
+    //Page Main
+
+    //Page Profile
+    'Name' => 'Name',
+    'Email Address' => 'Email Address',
+    'Current Password' => 'Current Password',
+    'New Password' => 'New Password',
+    'Repeat New Password' => 'Repeat New Password',
+    'Save Changes' => 'Save Changes',
+    //Page Profile
+
+    //Page Register
+    'Sign In' => 'Sign In',
+    'Sign in' => 'Sign In',
+    'Sign Up' => 'Sign Up',
+    'We are fame makers' => 'We are fame makers',
+    'The All-In-One Social Media Marketing tool you will need' => 'The All-In-One Social Media Marketing tool you will need',
+    'Our Services' => 'Our Services',
+    'Total Orders' => 'Total Orders',
+    'Active User' => 'Active User',
+    'Create an account' => 'Create an account',
+    'Create an account by fill up this form' => 'Create an account by fill up this form',
+    'Password' => 'Password',
+    'Confirm Password' => 'Confirm Password',
+    'Already have an account' => 'Already have an account',
+
+    '' => '',
+    '' => '',
+    //Page Register
+
+    //Page Login
+    'Services are updated daily' => 'Services are updated daily!',
+    'messages.+100 Secure paymen methods' => 'messages.+100 Secure paymen methods!',
+    '24/7 Tech Support for Any help' => '24/7 Tech Support for Any help!',
+    'You can resell our services' => 'You can resell our services!',
+    'Real/High quality services' => 'Real/High quality services!',
+    '+16136756 orders until now' => '+16136756 orders until now!',
+    '#1 Cheapest SMM services starting at only $1/k' => '#1 Cheapest SMM services starting at only $1/k',
+    'Enter your email and password for login' => 'Enter your email and password for login',
+    'Remember Me' => 'Remember Me',
+    'Forgot Password' => 'Forgot Password?',
+    'Dont have an account' => 'Dont have an account',
+    'How It Works' => 'How It Works?',
+    'Our Working Process' => 'Our Working Process.',
+    'Register into our panel, fill up your data and get ready to be famous. We will help to be a famous person on the social media' => 'Register into our panel, fill up your data and get ready to be famous. We will help to be a famous person on the social media.',
+    'Add money to your Social Hub account and be ready to rise like a star and give your business a new height. Just Enjoy Bonus at First Deposit' => 'Add money to your Social Hub account and be ready to rise like a star and give your business a new height. Just Enjoy Bonus at First Deposit.',
+    'Place Order' => 'Place Order',
+    'Select a service and place an order and get ready to start receiving more and more publicity on Social Media and the Internet' => 'Select a service and place an order and get ready to start receiving more and more publicity on Social Media and the Internet.',
+    'Enjoy SuperB Result' => 'Enjoy SuperB Result!',
+    'After Sucessfully Place an order. You will Recived Your Needs and you will get notifications at your social media' => 'After Sucessfully Place an order. You will Recived Your Needs and you will get notifications at your social media.',
+    'Why Choose Social Hub' => 'Why Choose Social Hub?',
+    'Numbers show that we are the most used panel with a total of totals["ordersAll"] orders. But let us tell you why we are the first in what we do' => ' Numbers show that we are the most used panel with a total of totals["ordersAll"] orders. But let us tell you why we are the first in what we do.',
+    'Friendly Dashboard' => 'Friendly Dashboard',
+    'We have the friendliest dashbord in the SMM World! Updated regularly with the best user friendly features' => 'We have the friendliest dashbord in the SMM World! Updated regularly with the best user friendly features.',
+    'World Wide services' => 'World Wide services',
+    'We always provide world best services as per your demand. Our all services is international Services' => 'We always provide world best services as per your demand. Our all services is international Services.',
+    'Unbelievable Prices' => 'Unbelievable Prices',
+    'Our prices are the cheapest in the market, starting at 0.03$' => 'Our prices are the cheapest in the market, starting at 0.03$.',
+    'Delivered Within Minutes' => 'Delivered Within Minutes',
+    'We provide automated services with quick delivery' => 'We provide automated services with quick delivery',
+    '24/7 Support' => '24/7 Support',
+    'We are proud to have the best support in the SMM World, replying to your tickets 24/7' => 'We are proud to have the best support in the SMM World, replying to your tickets 24/7.',
+    'Best Social' => 'Best Social',
+    'Media' => 'Media',
+    'Provider' => 'Provider.',
+    'Get Started' => 'Get Started',
+    'Our Clients Testimonials' => 'Our Clients Testimonials',
+    'Our Happy Clients Like You' => 'Our Happy Clients Like You .',
+    'It is about us being able to offer help with the branding campaign, product presentation, and advertisement running across social media' => 'It is about us being able to offer help with the branding campaign, product presentation, and advertisement running across social media.',
+    'Wow! This is amazing' => 'Wow! This is amazing.',
+    'I have been purchasing Instagram Likes for over a year and never got a delay! Social Hub did a great job always. Recommended for people looking for cheap smm panel' => 'I have been purchasing Instagram Likes for over a year and never got a delay! Social Hub did a great job always. Recommended for people looking for cheap smm panel',
+    'It was great services' => 'It was great services',
+    'Order 10000 Instagram Followers and Got my followers as promised in time! Happy to Purchased from Social Hub. We will Continue with Social Hub as smm panel for  our future purchase' => 'Order 10000 Instagram Followers and Got my followers as promised in time! Happy to Purchased from Social Hub. We will Continue with Social Hub as smm panel for  our future purchase.',
+    'Great Support and services' => 'Great Support and services',
+    'I was looking for smm panel and found Social Hub. Purchased 20000 Facebook Likes for our company and worked indeed! Support is also in time always. Thanks' => 'I was looking for smm panel and found Social Hub. Purchased 20000 Facebook Likes for our company and worked indeed! Support is also in time always. Thanks',
+    'They are amazing! Congratulations Social Hub' => 'They are amazing! Congratulations Social Hub.',
+    'Best service website for any social network, with great prices, speed, and excellent service. I was working with many panels before and none of them was on the Social Hub level' => 'Best service website for any social network, with great prices, speed, and excellent service. I was working with many panels before and none of them was on the Social Hub level.',
+    'Excellent service and Social Hub.com is Best' => 'Excellent service and Social Hub.com is Best.',
+    'Excellent service and Social Hub.com is one of the best and cheapest Social Media Marketing Tool. SMM panel is wonderful website. I am totally satisfied with their service and recommend them. thanks' => 'Excellent service and Social Hub.com is one of the best and cheapest Social Media Marketing Tool. SMM panel is wonderful website. I am totally satisfied with their service and recommend them. thanks',
+    'I am Definitely Very Statisfied' => 'I am Definitely Very Statisfied.',
+    'I am definitely very satisfied with this company, they have excellent customer service and they have promoted my company to me; Im delighted' => 'I am definitely very satisfied with this company, they have excellent customer service and they have promoted my company to me; Im delighted',
+    'We have most advance features' => 'We have most advance features.',
+    '' => '',
+    '' => '',
+
+    //Page Login
+
+    //Page Forgetpassword
+    'Send Reset Link' => 'Send Reset Link',
+    'You Remember Your Password' => 'You Remember Your Password?',
+    'Reset Password' => 'Reset Password',
+    //Page Forgetpassword
+
+
+    '' => '',
+];

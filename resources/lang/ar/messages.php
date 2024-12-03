@@ -1,0 +1,197 @@
+<?php
+return [
+    //Page Orders
+    'Search' => 'إبحث',
+    'All' => 'الجميع',
+    'Pending' => 'قيد الانتظار',
+    'In Progress' => 'في تَقَدم',
+    'Completed' => 'مكتمل',
+    'Partial' => 'جزئي',
+    'Processing' => 'يعالج',
+    'Canceled' => 'ألغيت',
+    'Dont Have Any Orders' => 'ليس لديك أي طلبية',
+    'ID' => 'ايدي',
+    'Date' => 'التاريخ',
+    'Link' => 'الرابط',
+    'Charge' => 'تكلفة',
+    'Start count' => 'بدء العد',
+    'Quantity' => 'الكمية',
+    'Service' => 'الخدمة',
+    'Remains' => 'الباقي',
+    'Status' => 'الحالة',
+    //Page Orders
+
+    //Page header
+    'Total Customer Balance' => 'مجموع رصيد العملاء',
+    'Cost Orders' => 'تكلفة الطلبيات',
+    'Total Orders' => 'مجموع الطلبيات',
+    //Page header
+
+    //Page navigation
+    'New Order' => 'إنشاء طلبية',
+    'Orders' => 'طلبياتي',
+    'Tickets' => 'الدعم الفني',
+    'Payment' => 'طرق الدفع',
+    //Page navigation
+
+    //Page Payment
+    'Add Fund' => 'إضافة رصيد',
+    'Method' => 'طريقة الدفع',
+    'ZainCash' => '✚ 𝗭𝗮𝗶𝗻 𝗖𝗮𝘀𝗵: تواصل معنا | اقل شيء 5 دولارات',
+    'OrangeMoney' => '✚ Orange Money: تواصل معنا | اقل شيء 5 دولارات',
+    'Click' => '✚ Click: تواصل معنا | اقل شيء 5 دولارات',
+    'Open Ticket' => 'افتح تذكرة.',
+    'to get our Zain Cash number' => 'للحصول على رقم زين كاش',
+    'The Minimum payment is $5 USD' => 'الحد الأدنى للدفع هو 5 دولارات دولار',
+    'And then provide us with your phone number and the amount sent' => 'ثم تزويدنا برقم هاتفك والمبلغ لشحن رصيدك.',
+    'Fund History' => 'تواريخ المصاريف',
+    'History' => 'التاريخ',
+    'Payment Methods' => 'طرق الدفع',
+    'Amount' => 'القيمة',
+    'Fee' => 'مصاريف',
+    'Payment Methods FAQs' => 'الأسئلة الشائعة حول طرق الدفع',
+    'PayPal' => "حاليا لا نقبل الدفع عن طريق بايبال",
+    'Other' => 'اخرى',
+    'namePayPal' => 'بايبال',
+    'Points' => 'نقاط',
+    //Page Payment
+
+    //Page Tickets
+    'Support Tickets' => 'تذاكر الدعم',
+    'someqution' => 'لقد قمنا بتقديم بعض الأسئلة الشائعة في الأسئلة المتكررة. تحقق منها أولاً ثم قم بإنشاء تذكرة.',
+    'Create Tickets' => 'إنشاء تذاكر',
+    'Tickets History' => 'سجل التذاكر',
+    'Subjects' => 'المواضيع',
+    'Orders' => 'الطلبات',
+    'Others' => 'أخرى',
+    'Order Id' => 'رقم الطلب',
+    'Request' => 'طلب',
+    'Refill' => 'إعادة التعبئة',
+    'Cancel' => 'إلغاء',
+    'Other' => 'آخر',
+    'Payment Method' => 'طريقة الدفع',
+    'Messages' => 'الرسائل',
+    'Last Updates' => 'آخر التحديثات',
+    'Frequently FAQs' => 'الأسئلة الشائعة بشكل متكرر',
+    'Why was my refill request rejected' => 'لماذا تم رفض طلبي لإعادة التعبئة؟',
+    'Why was my order canceled' => 'لماذا تم إلغاء طلبي؟',
+    'Is it possible for the quantity ordered to decrease' => 'هل من الممكن أن ينخفض الكمية المطلوبة؟',
+    'Can I get a refund to my original method of payment' => 'هل يمكنني الحصول على استرداد لطريقة الدفع الأصلية؟',
+    'How many tickets can I open' => 'كم عدد التذاكر التي يمكنني فتحها؟',
+    'Why is my order not completed yet' => 'لماذا لم يتم إكمال طلبي بعد؟',
+    'How often can I refill my order' => 'كم مرة يمكنني إعادة تعبئة طلبي؟',
+    'How can I send a screenshot to you' => 'كيف يمكنني إرسال لقطة شاشة لك؟',
+    'Do you have any other questions' => 'هل لديك أي أسئلة أخرى؟',
+    'Submit Tickets' => 'إرسال التذاكر',
+    'Answered' => 'تم الرد',
+    'Closed' => 'مغلق',
+    'Pending' => 'قيد الانتظار',
+    //Page Tickets
+
+
+    //Page Main
+    'sorry we dont have product' => 'آسف ليس لدينا منتجات حاليا',
+    'Min' => 'الاقل',
+    'Max' => 'الاعلى',
+    'Recent Update' => 'التحديثات الجديدة',
+    'Submit Order' => 'أكد الطلب',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    //Page Main
+
+    //Page Profile
+    'Name' => 'الاسم',
+    'Email Address' => 'عنوان البريد الإلكتروني',
+    'Current Password' => 'كلمة المرور الحالية',
+    'New Password' => 'كلمة المرور الجديدة',
+    'Repeat New Password' => 'تكرار كلمة المرور الجديدة',
+    'Save Changes' => 'حفظ التغييرات',
+    //Page Profile
+
+    //Page Register
+    'Sign In' => 'تسجيل الدخول',
+    'Sign in' => 'تسجيل الدخول',
+    'Sign Up' => 'إنشاء حساب',
+    'We are fame makers' => 'نحن صناع الشهرة',
+    'The All-In-One Social Media Marketing tool you will need' => 'أداة التسويق عبر وسائل التواصل الاجتماعي الكل في واحد التي ستحتاج إليها!',
+    'Our Services' => 'خدماتنا',
+    'Total Orders' => 'إجمالي الطلبات',
+    'Active User' => 'المستخدمون النشطون',
+    'Create an account' => 'إنشاء حساب',
+    'Create an account by fill up this form' => 'إنشاء حساب عن طريق ملء هذا النموذج.',
+    'Password' => 'كلمة المرور',
+    'Confirm Password' => 'تأكيد كلمة المرور',
+    'Already have an account' => 'هل لديك حساب بالفعل؟',
+
+    '' => '',
+    '' => '',
+    //Page Register
+
+
+    //Page Login
+    'Services are updated daily' => 'الخدمات محدثة يوميًا!',
+    '+100 Secure paymen methods' => 'أكثر من 100 طريقة دفع آمنة!',
+    '24/7 Tech Support for Any help' => 'دعم تقني على مدار الساعة لأي مساعدة!',
+    'You can resell our services' => 'يمكنك إعادة بيع خدماتنا!',
+    'Real/High quality services' => 'خدمات حقيقية/عالية الجودة!',
+    '+16136756 orders until now' => '+16136756 طلب حتى الآن!',
+    '#1 Cheapest SMM services starting at only $1/k' => '#1 أرخص خدمات التسويق عبر وسائل التواصل الاجتماعي تبدأ من 1 دولار/ألف',
+    'Enter your email and password for login' => 'أدخل بريدك الإلكتروني وكلمة المرور لتسجيل الدخول',
+    'Remember Me' => 'تذكرني',
+    'Forgot Password' => 'نسيت كلمة المرور؟',
+    'Dont have an account' => 'ليس لديك حساب؟',
+    'How It Works' => 'كيف يعمل؟',
+    'Our Working Process' => 'عملية عملنا.',
+    'Register into our panel, fill up your data and get ready to be famous. We will help to be a famous person on the social media' => 'سجل في لوحة التحكم الخاصة بنا، املأ بياناتك واستعد لتصبح مشهورًا. سنساعدك على أن تصبح شخصًا مشهورًا على وسائل التواصل الاجتماعي',
+    'Add money to your Social Hub account and be ready to rise like a star and give your business a new height. Just Enjoy Bonus at First Deposit' => 'أضف الأموال إلى حسابك في Social Hub واستعد للارتفاع مثل النجم وإعطاء عملك ارتفاعًا جديدًا. استمتع فقط بمكافأة عند الإيداع الأول.',
+    'Place Order' => 'قم بالطلب',
+    'Select a service and place an order and get ready to start receiving more and more publicity on Social Media and the Internet' => 'حدد خدمة وقم بالطلب واستعد لبدء تلقي المزيد والمزيد من الدعاية على وسائل التواصل الاجتماعي والإنترنت.',
+    'Enjoy SuperB Result' => 'استمتع بنتائج رائعة!',
+    'After Sucessfully Place an order. You will Recived Your Needs and you will get notifications at your social media' => 'بعد وضع الطلب بنجاح. ستتلقى احتياجاتك وستحصل على إشعارات على وسائل التواصل الاجتماعي.',
+    'Why Choose Social Hub' => 'لماذا تختار Social Hub؟',
+    'Numbers show that we are the most used panel with a total of totals["ordersAll"] orders. But let us tell you why we are the first in what we do' => 'تظهر الأرقام أننا اللوحة الأكثر استخدامًا مع مجموع الطلبات "ترتيب الكل". لكن دعنا نخبرك لماذا نحن الأول في مجال عملنا.',
+    'Friendly Dashboard' => 'لوحة تحكم ودية',
+    'We have the friendliest dashbord in the SMM World! Updated regularly with the best user friendly features' => 'لدينا أودود الصداقة في العالم! تحديث بانتظام مع أفضل الميزات الصديقة للمستخدم',
+    'World Wide services' => 'خدمات عالمية',
+    'We always provide world best services as per your demand. Our all services is international Services' => 'نحن نقدم دائمًا أفضل الخدمات العالمية وفقًا لطلبك. جميع خدماتنا هي خدمات دولية',
+    'Unbelievable Prices' => 'أسعار لا تصدق',
+    'Our prices are the cheapest in the market, starting at 0.03$' => 'أسعارنا هي الأرخص في السوق، بدءًا من 0.03 دولار',
+    'Delivered Within Minutes' => 'تسليم في غضون دقائق',
+    'We provide automated services with quick delivery' => 'نحن نقدم خدمات آلية بتسليم سريع',
+    '24/7 Support' => 'دعم على مدار الساعة',
+    'We are proud to have the best support in the SMM World, replying to your tickets 24/7' => 'نحن فخورون بأن لدينا أفضل دعم في العالم، الرد على تذاكرك على مدار الساعة',
+    'Best Social' => 'أفضل',
+    'Media' => 'وسائل التواصل الاجتماعي',
+    'Provider' => 'مزود',
+    'Get Started' => 'ابدأ',
+    'Our Clients Testimonials' => 'شهادات عملائنا',
+    'Our Happy Clients Like You' => 'عملائنا السعداء مثلك.',
+    'It is about us being able to offer help with the branding campaign, product presentation, and advertisement running across social media' => 'يتعلق الأمر بقدرتنا على تقديم المساعدة في حملة التسويق، عرض المنتج، والإعلانات عبر وسائل التواصل الاجتماعي',
+    'Wow! This is amazing' => 'واو! هذا رائع',
+    'I have been purchasing Instagram Likes for over a year and never got a delay! Social Hub did a great job always. Recommended for people looking for cheap smm panel' => 'لقد قمت بشراء إعجابات إنستغرام لأكثر من عام ولم أتأخر قط! قام Social Hub دائمًا بعمل رائع. موصى به للأشخاص الذين يبحثون عن لوحة SMM رخيصة',
+    'It was great services' => 'كانت خدمات رائعة',
+    'Order 10000 Instagram Followers and Got my followers as promised in time! Happy to Purchased from Social Hub. We will Continue with Social Hub as smm panel for our future purchase' => 'طلبت 10000 متابع لإنستغرام وحصلت على متابعيني كما وعدوا في الوقت المناسب! سعيد بالشراء من Social Hub. سنستمر مع Social Hub كلوحة SMM لشرائنا المستقبلي',
+    'Great Support and services' => 'دعم وخدمات رائعة',
+    'Order 10000 Instagram Followers and Got my followers as promised in time! Happy to Purchased from Social Hub. We will Continue with Social Hub as smm panel for our future purchase' => 'كنت أبحث عن لوحة SMM ووجدت Social Hub. قمت بشراء 20000 إعجاب لفيسبوك لشركتنا وعملت حقًا! الدعم أيضًا في الوقت دائمًا. شكرًا',
+    'They are amazing! Congratulations Social Hub' => 'هم مذهلون! تهانينا لـ Social Hub',
+    'Best service website for any social network, with great prices, speed, and excellent service. I was working with many panels before and none of them was on the Social Hub level' => 'أفضل موقع ويب لخدمة أي شبكة اجتماعية، بأسعار رائعة، وسرعة، وخدمة ممتازة. كنت أعمل مع العديد من اللوحات من قبل ولم يكن أي منها على مستوى Social Hub',
+    'Excellent service and Social Hub.com is Best' => 'خدمة ممتازة و Social Hub.com هو الأفضل',
+    'Excellent service and Social Hub.com is one of the best and cheapest Social Media Marketing Tool. SMM panel is wonderful website. I am totally satisfied with their service and recommend them. thanks' => 'الخدمة ممتازة وموقع Social Hub.com هو واحد من أفضل وأرخص أدوات التسويق عبر وسائل التواصل الاجتماعي. لوحة SMM هي موقع رائع. أنا راضٍ تمامًا عن خدماتهم وأوصي بهم. شكرًا',
+    'I am Definitely Very Statisfied' => 'أنا بالتأكيد راضٍ جدًا',
+    'I am definitely very satisfied with this company, they have excellent customer service and they have promoted my company to me; Im delighted' => 'أنا بالتأكيد راضٍ جدًا عن هذه الشركة، لديهم خدمة عملاء ممتازة وقاموا بالترويج لشركتي بشكل ممتاز؛ أنا سعيد جدًا',
+    'We have most advance features' => 'لدينا معظم الميزات المتقدمة.',
+    //Page Login
+
+    //Page Forgetpassword
+    'Send Reset Link' => 'أرسل رابط إعادة تعيين كلمة المرور',
+    'You Remember Your Password' => 'هل تتذكر كلمة المرور الخاصة بك؟',
+    'Reset Password' => 'اعادة تعين كلمة المرور',
+    //Page Forgetpassword
+
+
+
+    '' => '',
+];
